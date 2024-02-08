@@ -3,14 +3,15 @@
 # Create a new file called activityFeb7.py
 # and answer the following questions
 
-# 1. In your own words, what is a computer program? program language
+# 1. In your own words, what is a computer program? program language follows and execute
 
 # 2. Name three (3) data types string ?,interger,float
 
 # 3. Name three (3) python Operators? Logical,Arithmatic,Assignment
 
 # 4. In your own words, what is a variable?
-
+"unknown - x * 2= 200"
+input
 # READING PROMPTS
 # Carefully read through each scenario and determine which Python Operator you would use to build the
 # particular program. 
@@ -25,11 +26,12 @@
 # What your client would like to happen is that when a user is a member AND 
 #  also has the gold membership they should be able to use the pool.
 # Which python operator would you use in this situation? Explain why.
-
+#answer= logical operative
 # 6. You have been hired as a software engineer to develop a simple payment system for a companys 
 # webstore. Your assignment is to create a cart system where the prices of all 
 # the items are added together and then deducts a 20% discount at checkout. 
 # Which python operator would you use in this situation? Explain why.
+Arithmetic
 
 # 7. You have been hired as an engineer to develop a student badge system. Your client would like to 
 # have a system where when a student swipes their badge, the ID number on the badge is compared to the ID
