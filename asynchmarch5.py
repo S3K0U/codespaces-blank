@@ -33,10 +33,9 @@
 
 def Elevator():
     stops = input('what is your floor number? ')
-    print('Your floor number is ' + {stops})
+    if userFloor
 
-Elevator()    
-
+     print('You are going to the')
 
 # Prompt #2- Amusement Park Conditional Function
 # You have been hired by an amusement park to develop a function
@@ -45,6 +44,21 @@ Elevator()
 # Your client has very specific requirements for thier guests 
 # to ride their roller coasters and have provided you with the following 
 # conditions that they would like your program to check for. 
+
+#paramater- data is passed inside of the function def.
+#function- our instructions need  to be wrapped in a function.
+#conditional statements (if/else/elf)
+#Comparison operators check if the age and height matches with our program
+#interger datatype- age and float datatype for height
+     
+     def Rollercoaster(height,sge):
+        print("You may get on the roller coaster")
+    elif height < 5.2 and age < 14    
+        print("you may get on roller coaster")
+else:
+        print("Error: you may have typed something else")
+
+Rollercoaster (5.2,13)
 
 # user must be atleast 5.2 or taller and atleast 14 years old or older 
 # in order to ride roller coaster 1. 
