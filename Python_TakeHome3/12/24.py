@@ -11,3 +11,5 @@
 #Educational apps and platforms offer interactive ways to engage with course material, making learning more dynamic and tailored to individual needs.
 #However, technology can also be a distraction, leading to decreased attention spans and productivity in the classroom. Additionally, the reliance on technology for learning may hinder the development of essential critical thinking and problem-solving skills.
 #Overall, the impact of technology on learning in school can be both positive and negative, depending on how it is integrated and managed within the educational environment.
+
+#Lasa
